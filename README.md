@@ -4,7 +4,7 @@ Code for the 2015 ASME Journal of Mechanical Design Paper - When Crowdsourcing F
 
 [Link to the Paper](http://mechanicaldesign.asmedigitalcollection.asme.org/mobile/article.aspx?articleid=1935529)
 
-<img src="https://www.aburnap.com/images/research_logos/crowd_evaluation.png" alt="crowd_expertise_plot" style="width:400px; text-align:center;">
+<img src="https://www.aburnap.com/images/research_logos/crowd_evaluation.png" alt="crowd_expertise_plot" style="width:300px; text-align:center;">
 
 
 This paper investigates crowdsourced evaluation for engineering designs using both simulated and real human crowds.  The crowd's combined evaluation is aggregated using either averaging or a Bayesian network crowd consensus model that accounts for evaluator expertise and design difficulty.
