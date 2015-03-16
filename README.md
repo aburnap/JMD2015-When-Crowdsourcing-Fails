@@ -35,6 +35,8 @@ The code is licensed under the MIT license. Feel free to use this code for your 
 
 Burnap, A., Ren, Y., Gerth, R., Papazoglou, G., Gonzalez, R., & Papalambros, P. Y. (2015). When Crowdsourcing Fails: A Study of Expertise on Crowdsourced Design Evaluation. Journal of Mechanical Design, 137(3), 031101.
 
+
+```
 @article{burnap2015crowdsourcing,
   title={When Crowdsourcing Fails: A Study of Expertise on Crowdsourced Design Evaluation},
   author={Burnap, Alex and Ren, Yi and Gerth, Richard and Papazoglou, Giannis and Gonzalez, Richard and Papalambros, Panos Y},
@@ -45,6 +47,6 @@ Burnap, A., Ren, Y., Gerth, R., Papazoglou, G., Gonzalez, R., & Papalambros, P. 
   year={2015},
   publisher={American Society of Mechanical Engineers}
 }
-
+```
 
 
