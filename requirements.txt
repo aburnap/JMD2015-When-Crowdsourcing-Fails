@@ -1,0 +1,11 @@
+argparse
+distribute
+ipython
+numpy
+matplotlib
+pydot
+pymc
+pyparsing
+scikit-learn
+scipy
+wsgiref
